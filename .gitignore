@@ -8,7 +8,6 @@
 /android/Measurements_30/build
 /android/Measurements_30/gradle
 *.properties
-gradlew
 *.iml
 *.gradle
 *.pro

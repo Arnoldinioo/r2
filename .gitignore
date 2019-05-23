@@ -12,7 +12,7 @@ gradlew
 *.iml
 *.gradle
 *.pro
-*bat
+*.bat
 /server/MeasurementExtractor/.settings
 /server/MeasurementExtractor/.classpath
 /server/MeasurementExtractor/.project

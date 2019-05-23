@@ -1,0 +1,16 @@
+/android/Measurements_30/app/build
+/android/Measurements_30/app/libs
+/android/Measurements_30/app/src/androidTest
+/android/Measurements_30/app/src/test
+/android/Measurements_30/build
+/android/Measurements_30/gradle
+*.properties
+gradlew
+*.iml
+*.gradle
+*.pro
+*bat
+/server/MeasurementExtractor/target
+/server/MeasurementExtractor/nbactions.xml
+/server/MeasurementExtractor/src/main/resources
+/server/MeasurementExtractor/src/test
